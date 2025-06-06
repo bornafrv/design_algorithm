@@ -34,7 +34,4 @@ The divide and conquer technique is a powerful strategy used to solve complex pr
 This module was part of the **Algorithm Design** course and showcases foundational recursive problem-solving techniques.  
 It emphasizes optimization, complexity reduction, and structured coding practice.
 
----
-
-## 🧑‍🏫 Instructor
-Dr. Asadpoor – University of Tehran  
+---  
